@@ -52,12 +52,22 @@ INT 21H
 CODE ENDS
 END
 ```
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   9C                     | 
+|  2005                   |   8A                     |
+|  2006                   |   00                     |
+
 
 #### Manual Calculations
 
@@ -112,8 +122,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   56                     | 
+|  2005                   |   86                     |
+|  2006                   |   00                     |
 #### Manual Calculations
 
 ![sub](https://github.com/user-attachments/assets/b6aa72b3-b140-4abb-8f23-8354e32eeafe)
@@ -163,8 +182,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   02                     | 
+|  2001                   |   00                     |
+|  2002                   |   03                     |
+|  2003                   |   00                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   06                     | 
+|  2005                   |   00                     |
+|  2006                   |   00                     |
 #### Manual Calculations
 
 ![mul](https://github.com/user-attachments/assets/7a11c560-b9eb-4673-888f-012603af4b17)
@@ -211,8 +239,17 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   69                     | 
+|  2001                   |   24                     |
+|  2002                   |   34                     |
+|  2003                   |   12                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   02                     | 
+|  2005                   |   00                     |
+|  2006                   |   01                     |
 #### Manual Calculations
 
 ![div](https://github.com/user-attachments/assets/48eac901-d117-4d12-8bbc-c26d1d786572)
