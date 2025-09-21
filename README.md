@@ -113,7 +113,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![sub](https://github.com/user-attachments/assets/b6aa72b3-b140-4abb-8f23-8354e32eeafe)
 
 ---
 
@@ -162,7 +162,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![mul](https://github.com/user-attachments/assets/7a11c560-b9eb-4673-888f-012603af4b17)
+
 
 ---
 
@@ -207,7 +208,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![div](https://github.com/user-attachments/assets/48eac901-d117-4d12-8bbc-c26d1d786572)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
